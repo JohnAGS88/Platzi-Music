@@ -1,5 +1,5 @@
 const configService = {
-  apiUrl: 'https://platzi-music-api.now.sh'
+  iTunesApiUrl: 'https://itunes.apple.com/search'
 }
 
 export default configService
